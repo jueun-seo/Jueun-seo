@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=random&height=200&section=header&text=June&fontSize=30)
-![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=venom,capsule_render&animation=fadeIn&color=random&height=200&section=header&text=June&fontSize=30)
+
 **Nurse turned healthcare IT builder.** I spent 9 years at the bedside (neurosurgical ICU, cardiothoracic surgery) learning to catch problems before patients could put them into words. Now I solve those problems with software.
 
 ## What I'm doing now
