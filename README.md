@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&animation=fadeIn&color=random&height=200&section=header&text=June&fontSize=30)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 **Nurse turned healthcare IT builder.** I spent 9 years at the bedside (neurosurgical ICU, cardiothoracic surgery) learning to catch problems before patients could put them into words. Now I solve those problems with software.
 
@@ -15,7 +16,6 @@ Business Analyst at ezCaretech, deployed on-site at hospitals in Saudi Arabia. I
 
 > When the direction is clear, I find the way as I go.
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 `SQL` `Oracle` `HTML/CSS/JS prototyping` `Data modeling` `Clinical workflows` `AI-assisted development`
 
 Certifications: ADsP (Data Analytics) · NAVER Cloud Certified Professional · AWS Certified Cloud Practitioner · RN (Korea & New York) · Critical Care APN
