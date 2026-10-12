@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&animation=fadeIn&color=random&height=200&section=header&text=June&fontSize=30)
-![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter)
+![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter,instagram,linkedin,claude)
 
 **Nurse turned healthcare IT builder.** I spent 9 years at the bedside (neurosurgical ICU, cardiothoracic surgery) learning to catch problems before patients could put them into words. Now I solve those problems with software.
 
