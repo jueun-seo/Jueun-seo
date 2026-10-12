@@ -15,8 +15,7 @@ Business Analyst at ezCaretech, deployed on-site at hospitals in Saudi Arabia. I
 
 > When the direction is clear, I find the way as I go.
 
-## Toolbox
-
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 `SQL` `Oracle` `HTML/CSS/JS prototyping` `Data modeling` `Clinical workflows` `AI-assisted development`
 
 Certifications: ADsP (Data Analytics) · NAVER Cloud Certified Professional · AWS Certified Cloud Practitioner · RN (Korea & New York) · Critical Care APN
