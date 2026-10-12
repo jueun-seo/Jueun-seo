@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color= "text": "f7f5f5",  "textBg": "282829"&height=200&section=header&text=Jueun&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=venom&color=f7f5f5&height=200&section=header&text=Jueun&fontSize=60)
 
 **Nurse turned healthcare IT builder.** I spent 9 years at the bedside (neurosurgical ICU, cardiothoracic surgery) learning to catch problems before patients could put them into words. Now I solve those problems with software.
 
